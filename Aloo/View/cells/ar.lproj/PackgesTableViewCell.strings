@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Package duration:"; ObjectID = "27L-ox-ucb"; */
+"27L-ox-ucb.text" = "Package duration:";
+
+/* Class = "UIButton"; normalTitle = "Request The Package"; ObjectID = "B5L-GW-3hx"; */
+"B5L-GW-3hx.normalTitle" = "اطلب الباقة ->";
+
+/* Class = "UILabel"; text = "Discount Coupon:"; ObjectID = "CVK-tj-7MF"; */
+"CVK-tj-7MF.text" = "Discount Coupon:";
+
+/* Class = "UILabel"; text = "Number of monthly orders:"; ObjectID = "MZA-jz-eqr"; */
+"MZA-jz-eqr.text" = "Number of monthly orders:";
+
+/* Class = "UILabel"; text = "Aloo 01"; ObjectID = "dEO-MK-1Hp"; */
+"dEO-MK-1Hp.text" = "Aloo 01";
+
+/* Class = "UILabel"; text = "88 SR"; ObjectID = "p8t-OM-lBN"; */
+"p8t-OM-lBN.text" = "88 SR";

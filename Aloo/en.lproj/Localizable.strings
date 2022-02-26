@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  Aloo
+
+  Created by Hany Alkahlout on 18/11/2021.
+  English
+*/
+
+
+"calories" = "calories";
+"Size" = "Size";
+"With" = "With";
+"Without" = "Without";
+"Drinks" = "Drinks";
+"Extras" = "Extras";
+
+"The application will be restarted" = "The application will be restarted";
+"SR" = "SR";
+"male" = "male";
+"female" = "female";
+"Error" = "Error";
+"There is Empty Fields!!" = "There is Empty Fields!!";
+"You have to accept terms to use the aloo app" = "You have to accept terms to use the aloo app";
+"Add Address" = "Add Address";
+"Use Current Location" = "Use Current Location";
+"Update" = "Update";
+"Add To Cart" = "Add To Cart";
+"You cannot add less than 1 meal" = "You cannot add less than 1 meal";
+"You cannot add more than 10 meals" = "You cannot add more than 10 meals";
+"Big" = "Big";
+"Medium" = "Medium";
+"Small" = "Small";
+"You have to choose the delivery address" = "You have to choose the delivery address";
+"Current Location" = "Current Location";
+"From High To Low" = "From High To Low";
+"From Low To High" = "From Low To High";
+"You cannot add more than 10 items" = "You cannot add more than 10 items";
+"You cannot add less than 1 item" = "You cannot add less than 1 item";
+"Restaurant Orders" = "Restaurant Orders";
+"Super Market Orders" = "Super Market Orders";
+"Pharmacies Orders" = "Pharmacies Orders";
+"Restaurants" = "Restaurants";
+"SuperMarket" = "SuperMarket";
+"Pharmacy" = "Pharmacy";
+"Rate" = "Rate";
+"Customers Service" = "Customers Service";
+"Common Questions" = "Common Questions";
+"About The App" = "About The App";
+"Terms And Conditions And Privacy Policy" = "Terms And Conditions And Privacy Policy";
+"App Rating" = "App Rating";
+"Questions" = "Questions";
+"Technical support" = "Technical support";
+"Complaint" = "Complaint";
+"Your inquiries" = "Your inquiries";
+"Personal Profile" = "Personal Profile";
+"Notification" = "Notification";
+"Delivery Addresses" = "Delivery Addresses";
+"Aloo wallet" = "Aloo wallet";
+"Favorite" = "Favorite";
+"Langeuage" = "Langeuage";
+"Log out" = "Log out";
+"Do you want to log out?" = "Do you want to log out?";
+"You are logged out" = "You are logged out";
+"You are a guest now" = "You are a guest now";
+"Yes" = "Yes";
+"No" = "No";
+"There is an empty field!" = "There is an empty field!";
+"Select Restaurants" = "Select Restaurants";
+"Please choose a restaurant" = "Please choose a restaurant";
+"SuperMarkets" = "SuperMarkets";
+"Select SuperMarkets" = "Select SuperMarkets";
+"Pharmacies" = "Pharmacies";
+"Select Pharmacies" = "Select Pharmacies";
+"Please choose a pharmacie" = "Please choose a pharmacie";
+"There is an empty fields !!" = "There is an empty fields !!";
+"location not determined" = "location not determined";
+"Internet Connection Error" = "Internet Connection Error";
+"The code has been successfully sent back" = "The code has been successfully sent back";
+"Success" = "Success";
+"Sucessfully Added To Cart" = "Sucessfully Added To Cart";
+"Sucessfully Updated" = "Sucessfully Updated";
+"Successfully Updated" = "Successfully Updated";
+"Successfully Added To Cart" = "Successfully Added To Cart";
+"Meal Successfully Deleted" = "Meal Successfully Deleted";
+"other" = "Other";
+"prefer not to say" = "Prefer Not To Say";
+"Orders" = "Orders";
+"Restaurant" = "Restaurant";
+"SuperMarket" = "SuperMarket";
+"Pharmacy" = "Pharmacy";
+"Package added successfully" = "Package added successfully";
+"Aloo" = "Aloo";
+"Number Of Monthly Orders:" = "Number Of Monthly Orders:";
+"Discount Coupon:" = "Discount Coupon:";
+"Package Duration:" = "Package Duration:";
+"day" = "day";
+"Sent Succesfully" = "Sent Succesfully";
+"The order has been confirmed by the restaurant, please pay to prepare the order" = "The order has been confirmed by the restaurant, please pay to prepare the order";
+"Count:" = "Count:";
+"There is no item in the cart" = "There is no item in the cart";
+
+
+
+
+
+
+
+
+

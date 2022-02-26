@@ -1,0 +1,21 @@
+
+/* Class = "UIButton"; normalTitle = "Use the current site"; ObjectID = "Eby-tk-uRu"; */
+"Eby-tk-uRu.normalTitle" = "استخدم الموقع الحالي";
+
+/* Class = "UILabel"; text = "From low to high"; ObjectID = "H7u-HS-sdf"; */
+"H7u-HS-sdf.text" = "من الأقل إلى الأعلى";
+
+/* Class = "UILabel"; text = "From high to low"; ObjectID = "LpV-kb-zAe"; */
+"LpV-kb-zAe.text" = "من الأعلى إلى الأقل";
+
+/* Class = "UILabel"; text = "Delivery Addresses"; ObjectID = "NDO-Vc-7W3"; */
+"NDO-Vc-7W3.text" = "عناوين التسليم";
+
+/* Class = "UIButton"; normalTitle = "Sort By"; ObjectID = "WTg-o7-RG6"; */
+"WTg-o7-RG6.normalTitle" = "صنف حسب";
+
+/* Class = "UILabel"; text = "By Price"; ObjectID = "lyc-qQ-kTk"; */
+"lyc-qQ-kTk.text" = "بالسعر";
+
+/* Class = "UILabel"; text = "Pharmacies"; ObjectID = "zBr-w1-51O"; */
+"zBr-w1-51O.text" = "صيدليات";

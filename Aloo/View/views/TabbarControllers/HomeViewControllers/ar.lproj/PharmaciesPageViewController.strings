@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "All"; ObjectID = "EFm-gr-mUC"; */
+"EFm-gr-mUC.text" = "الكل";
+
+/* Class = "UILabel"; text = "Supermarket Sections"; ObjectID = "WVj-0c-1bB"; */
+"WVj-0c-1bB.text" = "أقسام السوبر ماركت";
+
+/* Class = "UIButton"; normalTitle = "Select"; ObjectID = "eul-GN-8vM"; */
+"eul-GN-8vM.normalTitle" = "اختر";
+
+/* Class = "UILabel"; text = "From low to high"; ObjectID = "hGQ-hP-F0x"; */
+"hGQ-hP-F0x.text" = "من الأقل إلى الأعلى";
+
+/* Class = "UILabel"; text = "By Price"; ObjectID = "q9O-gX-3s5"; */
+"q9O-gX-3s5.text" = "بالسعر";
+
+/* Class = "UILabel"; text = "From high to low"; ObjectID = "u9y-pj-xck"; */
+"u9y-pj-xck.text" = "من الأعلى إلى الأقل";

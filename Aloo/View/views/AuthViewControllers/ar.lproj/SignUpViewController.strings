@@ -1,0 +1,43 @@
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "2kC-j5-Kff"; */
+"2kC-j5-Kff.text" = "اشتراك";
+
+/* Class = "UILabel"; text = "male"; ObjectID = "BHK-p1-9Vb"; */
+"BHK-p1-9Vb.text" = "الذكر";
+
+"NGD-kD-pXd.text" = "اخر";
+
+"unx-Tp-hDh.text" = "أفضل عدم القول";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "C58-I7-Yon"; */
+"C58-I7-Yon.placeholder" = "رقم الهاتف";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "HFX-Yd-LHT"; */
+"HFX-Yd-LHT.text" = "ذكر";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "IAy-Ia-qXm"; */
+"IAy-Ia-qXm.text" = "مدينة";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "JOi-uy-xqg"; */
+"JOi-uy-xqg.normalTitle" = "اشتراك";
+
+/* Class = "UILabel"; text = "Cities"; ObjectID = "TAm-lT-f5P"; */
+"TAm-lT-f5P.text" = "مدن";
+
+/* Class = "UITextField"; placeholder = "User Name"; ObjectID = "VUl-uQ-0uO"; */
+"VUl-uQ-0uO.placeholder" = "اسم االمستخدم";
+
+/* Class = "UILabel"; text = "I agree to the terms and conditions"; ObjectID = "eVR-et-K3M"; */
+"eVR-et-K3M.text" = "أوافق على الشروط";
+
+/* Class = "UILabel"; text = "Female"; ObjectID = "fYC-rS-eqL"; */
+"fYC-rS-eqL.text" = "أنثى";
+
+/* Class = "UILabel"; text = "Please enter your information to make sign up"; ObjectID = "gd5-FD-39c"; */
+"gd5-FD-39c.text" = "الرجاء إدخال المعلومات الخاصة بك للتسجيل";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "hIy-ge-W14"; */
+"hIy-ge-W14.placeholder" = "تأكيد كلمة المرور";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "oiC-LL-VGY"; */
+"oiC-LL-VGY.placeholder" = "كلمه السر";

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="18122" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18093"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Tajawal-Medium.ttf">
+            <string>Tajawal-Medium</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="FAQViewController" customModule="Aloo" customModuleProvider="target">
+            <connections>
+                <outlet property="FAQTableView" destination="3rJ-Sj-8H9" id="wXS-UC-z1n"/>
+                <outlet property="backButton" destination="KQj-gU-G8g" id="fUV-OK-uW3"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="main-icon" translatesAutoresizingMaskIntoConstraints="NO" id="2Lr-GL-HTv">
+                    <rect key="frame" x="128" y="56" width="158.5" height="102.5"/>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KQj-gU-G8g">
+                    <rect key="frame" x="36" y="73" width="34" height="34"/>
+                    <state key="normal" image="back-btn-en"/>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="shadow_Radius">
+                            <real key="value" value="10"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="size" keyPath="shadow_Offset">
+                            <size key="value" width="0.0" height="3"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="number" keyPath="shadow_Opacity">
+                            <real key="value" value="0.29999999999999999"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="color" keyPath="shadow_Color">
+                            <color key="value" red="0.0" green="0.0" blue="0.0" alpha="0.35999999999999999" colorSpace="custom" customColorSpace="calibratedRGB"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <action selector="backAction:" destination="-1" eventType="touchUpInside" id="Egc-le-M01"/>
+                    </connections>
+                </button>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Common Questions" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="KG7-3k-5m4">
+                    <rect key="frame" x="136" y="187.5" width="142.5" height="17"/>
+                    <fontDescription key="fontDescription" name="Tajawal-Medium" family="Tajawal" pointSize="17"/>
+                    <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="REU-yB-dWE">
+                    <rect key="frame" x="23" y="212.5" width="364" height="0.5"/>
+                    <color key="backgroundColor" red="0.85490196078431369" green="0.85490196078431369" blue="0.85490196078431369" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="0.29999999999999999" id="JpJ-se-PMh"/>
+                    </constraints>
+                </view>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="3rJ-Sj-8H9">
+                    <rect key="frame" x="0.0" y="233" width="414" height="629"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                </tableView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="2Lr-GL-HTv" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="56" id="Dou-yh-wZY"/>
+                <constraint firstItem="3rJ-Sj-8H9" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" id="F1j-tF-BGe"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="3rJ-Sj-8H9" secondAttribute="trailing" id="Itg-pF-gJ1"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="REU-yB-dWE" secondAttribute="trailing" constant="27" id="Kxo-8H-VnX"/>
+                <constraint firstItem="REU-yB-dWE" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="23" id="OdJ-go-7ZL"/>
+                <constraint firstItem="KQj-gU-G8g" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="73" id="Qwd-JI-tVj"/>
+                <constraint firstItem="2Lr-GL-HTv" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="SND-Ub-JU1"/>
+                <constraint firstItem="3rJ-Sj-8H9" firstAttribute="top" secondItem="REU-yB-dWE" secondAttribute="bottom" constant="20" id="Wyb-Du-MMk"/>
+                <constraint firstItem="KG7-3k-5m4" firstAttribute="centerX" secondItem="2Lr-GL-HTv" secondAttribute="centerX" id="XgM-XV-85J"/>
+                <constraint firstItem="KG7-3k-5m4" firstAttribute="top" secondItem="2Lr-GL-HTv" secondAttribute="bottom" constant="29" id="bSe-Mk-xnB"/>
+                <constraint firstItem="KQj-gU-G8g" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="36" id="gWH-6n-qkh"/>
+                <constraint firstItem="REU-yB-dWE" firstAttribute="top" secondItem="KG7-3k-5m4" secondAttribute="bottom" constant="8" id="nCe-UJ-o6P"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="bottom" secondItem="3rJ-Sj-8H9" secondAttribute="bottom" id="uCN-fT-VeS"/>
+            </constraints>
+            <point key="canvasLocation" x="21.739130434782609" y="84.375"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="back-btn-en" width="34" height="34"/>
+        <image name="main-icon" width="158.5" height="102.5"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

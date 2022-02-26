@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Resturents"; ObjectID = "DLC-De-rBp"; */
+"DLC-De-rBp.text" = "مطاعم";
+
+/* Class = "UILabel"; text = "Restaurant Type"; ObjectID = "KOv-UR-bw4"; */
+"KOv-UR-bw4.text" = "نوع المطعم";
+
+/* Class = "UILabel"; text = "Sort By"; ObjectID = "RVH-0j-336"; */
+"RVH-0j-336.text" = "صنف حسب";
+
+/* Class = "UIButton"; normalTitle = "Use the current site"; ObjectID = "V3p-We-GHY"; */
+"V3p-We-GHY.normalTitle" = "استخدم الموقع الحالي";
+
+/* Class = "UILabel"; text = "Min Price Highest"; ObjectID = "XUR-W5-m1q"; */
+"XUR-W5-m1q.text" = "أدنى سعر أعلى";
+
+/* Class = "UIButton"; normalTitle = "Select"; ObjectID = "ctm-XO-C2Q"; */
+"ctm-XO-C2Q.normalTitle" = "اختار";
+
+/* Class = "UIButton"; normalTitle = "Resturent Type"; ObjectID = "hd3-90-KXQ"; */
+"hd3-90-KXQ.normalTitle" = "نوع المطعم";
+
+/* Class = "UILabel"; text = "Kitchen type"; ObjectID = "jeL-pI-gCA"; */
+"jeL-pI-gCA.text" = "نوع المطبخ";
+
+/* Class = "UILabel"; text = "Rate"; ObjectID = "pgS-su-9WS"; */
+"pgS-su-9WS.text" = "تقييم";
+
+/* Class = "UILabel"; text = "Min Price Lowest"; ObjectID = "pq1-YW-Ky6"; */
+"pq1-YW-Ky6.text" = "أدنى سعر أدنى";
+
+/* Class = "UILabel"; text = "Delivery Addresses"; ObjectID = "ubA-bQ-LMm"; */
+"ubA-bQ-LMm.text" = "عناوين التسليم";

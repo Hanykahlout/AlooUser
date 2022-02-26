@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Resturant Name"; ObjectID = "Xcq-uS-0pf"; */
+"Xcq-uS-0pf.text" = "اسم المطعم";
+
+/* Class = "UILabel"; text = "List Of Categories"; ObjectID = "YzB-BS-Pl9"; */
+"YzB-BS-Pl9.text" = "قائمة الفئات";
+
+/* Class = "UILabel"; text = "min price"; ObjectID = "bK6-5n-sgX"; */
+"bK6-5n-sgX.text" = "سعر دقيقة";
+
+/* Class = "UILabel"; text = "American, Sandwiches, Fast Food"; ObjectID = "cY3-zD-yWZ"; */
+"cY3-zD-yWZ.text" = "";
+
+/* Class = "UILabel"; text = "Min Price Highest"; ObjectID = "j0o-Kk-bv3"; */
+"j0o-Kk-bv3.text" = "أدنى سعر أعلى";
+
+/* Class = "UILabel"; text = "Min Price Lowest"; ObjectID = "juf-ui-GJ5"; */
+"juf-ui-GJ5.text" = "أدنى سعر أدنى";
+
+/* Class = "UIButton"; normalTitle = "The List"; ObjectID = "sti-k5-iO3"; */
+"sti-k5-iO3.normalTitle" = "القائمة";
+
+/* Class = "UILabel"; text = "Sort By"; ObjectID = "t7D-nl-D0R"; */
+"t7D-nl-D0R.text" = "صنف حسب";

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19455" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19454"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="WebViewViewController" customModule="Aloo" customModuleProvider="target">
+            <connections>
+                <outlet property="alooWebView" destination="iaq-rs-QsA" id="JFp-hU-oUb"/>
+                <outlet property="backBarButton" destination="eKw-cw-lRD" id="yRx-RK-OUy"/>
+                <outlet property="backButton" destination="Hvd-SA-GTr" id="YBc-1B-6SI"/>
+                <outlet property="forwordBarButton" destination="9Me-fm-In3" id="O7O-WI-UWl"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <wkWebView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="iaq-rs-QsA">
+                    <rect key="frame" x="0.0" y="176.5" width="414" height="636.5"/>
+                    <color key="backgroundColor" red="0.36078431370000003" green="0.38823529410000002" blue="0.4039215686" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <wkWebViewConfiguration key="configuration">
+                        <audiovisualMediaTypes key="mediaTypesRequiringUserActionForPlayback" none="YES"/>
+                        <wkPreferences key="preferences"/>
+                    </wkWebViewConfiguration>
+                </wkWebView>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="main-icon" translatesAutoresizingMaskIntoConstraints="NO" id="nFA-7K-dEm">
+                    <rect key="frame" x="128" y="54" width="158.5" height="102.5"/>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Hvd-SA-GTr">
+                    <rect key="frame" x="30" y="74" width="34" height="34"/>
+                    <state key="normal" image="back-btn-en"/>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="shadow_Radius">
+                            <real key="value" value="10"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="size" keyPath="shadow_Offset">
+                            <size key="value" width="0.0" height="3"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="number" keyPath="shadow_Opacity">
+                            <real key="value" value="0.29999999999999999"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="color" keyPath="shadow_Color">
+                            <color key="value" red="0.0" green="0.0" blue="0.0" alpha="0.35999999999999999" colorSpace="custom" customColorSpace="calibratedRGB"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <action selector="backAction:" destination="-1" eventType="touchUpInside" id="Lhx-0X-XXU"/>
+                    </connections>
+                </button>
+                <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="bwf-US-MOe">
+                    <rect key="frame" x="0.0" y="813" width="414" height="49"/>
+                    <items>
+                        <barButtonItem image="backward.frame" catalog="system" id="eKw-cw-lRD">
+                            <color key="tintColor" systemColor="labelColor"/>
+                            <connections>
+                                <action selector="backBarAction:" destination="-1" id="ugj-pV-7qg"/>
+                            </connections>
+                        </barButtonItem>
+                        <barButtonItem style="plain" systemItem="flexibleSpace" id="8Mg-yN-NiM"/>
+                        <barButtonItem image="forward.frame" catalog="system" id="9Me-fm-In3">
+                            <color key="tintColor" systemColor="labelColor"/>
+                            <connections>
+                                <action selector="forwordBarAction:" destination="-1" id="AuE-31-rJb"/>
+                            </connections>
+                        </barButtonItem>
+                    </items>
+                </toolbar>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="nFA-7K-dEm" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="3Gq-as-ggD"/>
+                <constraint firstItem="Hvd-SA-GTr" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="30" id="5ZP-gt-ga8"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="iaq-rs-QsA" secondAttribute="trailing" id="8xb-hE-IQi"/>
+                <constraint firstItem="iaq-rs-QsA" firstAttribute="top" secondItem="nFA-7K-dEm" secondAttribute="bottom" constant="20" id="BXJ-e8-gkb"/>
+                <constraint firstItem="iaq-rs-QsA" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" id="GC1-I0-r1t"/>
+                <constraint firstItem="Hvd-SA-GTr" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" constant="30" id="TQC-NQ-eOE"/>
+                <constraint firstAttribute="trailing" secondItem="bwf-US-MOe" secondAttribute="trailing" id="fss-0X-4eu"/>
+                <constraint firstItem="nFA-7K-dEm" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" constant="10" id="iXz-AQ-UTq"/>
+                <constraint firstItem="bwf-US-MOe" firstAttribute="top" secondItem="iaq-rs-QsA" secondAttribute="bottom" id="nBW-r1-iYd"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="bottom" secondItem="bwf-US-MOe" secondAttribute="bottom" id="o38-CB-bzV"/>
+                <constraint firstItem="bwf-US-MOe" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" id="tlp-jw-pTg"/>
+            </constraints>
+            <point key="canvasLocation" x="139" y="114"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="back-btn-en" width="34" height="34"/>
+        <image name="backward.frame" catalog="system" width="128" height="99"/>
+        <image name="forward.frame" catalog="system" width="128" height="99"/>
+        <image name="main-icon" width="158.5" height="102.5"/>
+        <systemColor name="labelColor">
+            <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

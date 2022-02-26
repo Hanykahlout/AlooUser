@@ -1,0 +1,101 @@
+/* 
+  Localizable.strings
+  Aloo
+
+  Created by Hany Alkahlout on 18/11/2021.
+  Arabic
+*/
+
+
+"calories" = "سعرات حرارية";
+"Size" = "الحجم";
+"With" = "مع";
+"Without" = "دون";
+"Drinks" = "المشروبات";
+"Extras" = "الإضافات";
+"The application will be restarted" = "سيتم إعادة تشغيل التطبيق";
+"Ok" = "Ok" ;
+"I do not want" =  "I do not want" ;
+"SR" = "ريال سعودى";
+"male" = "ذكر";
+"female" = "انثى";
+"Error" = "خطأ";
+"There is Empty Fields!!" = "هناك حقول فارغة !!";
+"You have to accept terms to use the aloo app" = "عليك قبول الشروط لاستخدام تطبيق aloo";
+"Add Address" = "أضاف عنوان";
+"Use Current Location" = "استخدام الموقع الحالي";
+"Update" = "تحديث";
+"Add To Cart" = "إضافة للسلة";
+"You cannot add less than 1 meal" = "لا يمكنك إضافة أقل من وجبة واحدة";
+"You cannot add more than 10 meals" = "لا يمكنك إضافة أكثر من 10 وجبات";
+"Big" = "كبير";
+"Medium" = "وسط";
+"Small" = "صغير";
+"You have to choose the delivery address" = "عليك اختيار عنوان التسليم";
+"Current Location" = "الموقع الحالي";
+"From High To Low" = "من الأعلى إلى الأدنى";
+"From Low To High" = "من الأقل إلى الأعلى";
+"You cannot add more than 10 items" = "لا يمكنك إضافة أكثر من 10 عناصر";
+"You cannot add less than 1 item" = "لا يمكنك إضافة أقل من عنصر واحد";
+"Restaurant Orders" = "طلبات المطاعم";
+"Super Market Orders" = "طلبات السوبر ماركت";
+"Pharmacies Orders" = "طلبات الصيدليات";
+"Restaurants" = "المطاعم";
+"SuperMarkets" = "سوبر ماركت";
+"Pharmacys" = "صيدليات";
+"Rate" = "تقييم";
+"Customers Service" = "خدمة العملاء";
+"Common Questions" = "الأسئلة الشائعة";
+"About The App" = "حول التطبيق";
+"Terms And Conditions And Privacy Policy" = "الشروط والأحكام وسياسة الخصوصية";
+"App Rating" = "تقييم التطبيق";
+"Questions" = "أسئلة";
+"Technical support" = "دعم فني";
+"Complaint" = "شكوى";
+"Your inquiries" = "استفساراتك";
+"Personal Profile" = "الملف الشخصي";
+"Notification" = "تنبيه";
+"Delivery Addresses" = "عناوين التسليم";
+"Aloo wallet" = "محفظة ألو";
+"Favorite" = "المفضل";
+"Langeuage" = "اللغة";
+"Log out" = "تسجيل خروج";
+"Do you want to log out?" = "هل ترغب بالخروج؟";
+"You are logged out" = "تم تسجيل خروجك";
+"You are a guest now" = "أنت ضيف الآن";
+"Yes" = "نعم";
+"No" = "لا";
+"There is an empty field!" = "هناك حقل فارغ!";
+"Select Restaurants" = "اختر مطاعم";
+"Please choose a restaurant" = "الرجاء اختيار مطعم";
+"SuperMarkets" = "سوبر ماركت";
+"Select SuperMarkets" = "حدد سوبر ماركت";
+"Pharmacies" = "الصيدليات";
+"Select Pharmacies" = "اختر الصيدليات";
+"Please choose a pharmacie" = "الرجاء اختيار صيدلية";
+"There is an empty fields !!" = "هناك حقول فارغة !!";
+"location not determined" = "الموقع غير محدد";
+"Internet Connection Error" = "خطأ في الاتصال بالإنترنت";
+"The code has been successfully sent back" = "تم إعادة إرسال الرمز بنجاح";
+"Success" = "نجاح";
+"Sucessfully Added To Cart" = "تمت الإضافة بنجاح إلى عربة التسوق";
+"Sucessfully Updated" = "تم التحديث بنجاح";
+"Successfully Updated" = "تم التحديث بنجاح";
+"Successfully Added To Cart" = "تمت الإضافة بنجاح إلى عربة التسوق";
+"Meal Successfully Deleted" = "تم حذف الوجبة بنجاح";
+"other" = "أخر";
+"prefer not to say" = "افضل عدم القول";
+"Orders" = "طلبات";
+"Restaurant" = "مطعم";
+"SuperMarket" = "سوبر ماركت";
+"Pharmacy" = "صيدلية";
+"Package added successfully" = "تم إضافة الحزمة بنجاح";
+"Aloo" = "ألو";
+"Number Of Monthly Orders:" = "عدد الطلبات الشهرية:";
+"Discount Coupon:" = "قسمةالخصم:";
+"Package Duration:" = "مدة الباقة:";
+"day" = "يوم";
+"Sent Succesfully" = "تم الارسال بنجاح";
+"The order has been confirmed by the restaurant, please pay to prepare the order" = "تم تأكيد الطلب من قبل المطعم ، يرجى الدفع لتجهيز الطلب";
+"Count:" = "العدد:";
+"There is no item in the cart" = "لا يوجد عناصر في سلة التسوق";

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="18122" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18093"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Tajawal-Regular.ttf">
+            <string>Tajawal-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="ProductsCollectionViewCell" id="gTV-IL-0wX" customClass="ProductsCollectionViewCell" customModule="Aloo" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="167" height="187"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="167" height="187"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="maR-ZC-Ieg">
+                        <rect key="frame" x="10" y="0.0" width="147" height="187"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="YBa-tw-ffr" customClass="UIImageViewCustomCornerRadius" customModule="Aloo" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="0.0" width="147" height="113"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="113" id="ddY-ze-3XS"/>
+                                </constraints>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="topLeftCorner">
+                                        <real key="value" value="10"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="topRightCorner">
+                                        <real key="value" value="10"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Mnz-8s-4rm">
+                                <rect key="frame" x="110" y="11" width="26" height="26"/>
+                                <state key="normal" image="unselected-fav"/>
+                                <state key="selected" image="favorate-icon"/>
+                                <connections>
+                                    <action selector="favButtonAction:" destination="gTV-IL-0wX" eventType="touchUpInside" id="Ltg-oq-wwf"/>
+                                </connections>
+                            </button>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="apK-NC-98h">
+                                <rect key="frame" x="10" y="123" width="92" height="34"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Chicken Breasts" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="75Q-gB-Wib">
+                                        <rect key="frame" x="0.0" y="0.0" width="92" height="13"/>
+                                        <fontDescription key="fontDescription" name="Tajawal-Regular" family="Tajawal" pointSize="13"/>
+                                        <color key="textColor" red="0.15686274509803921" green="0.2196078431372549" blue="0.27058823529411763" alpha="1" colorSpace="deviceRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="450 G" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NJ3-V8-rFl">
+                                        <rect key="frame" x="0.0" y="23" width="92" height="11"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="11" id="2YN-ea-L1P"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" name="Tajawal-Regular" family="Tajawal" pointSize="11"/>
+                                        <color key="textColor" red="0.15686274509803921" green="0.2196078431372549" blue="0.27058823529411763" alpha="1" colorSpace="deviceRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                            </stackView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="26 SR" textAlignment="right" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="6" translatesAutoresizingMaskIntoConstraints="NO" id="kce-pk-1Uy">
+                                <rect key="frame" x="107" y="123" width="30" height="11"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="30" id="j8v-MX-acw"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Tajawal-Regular" family="Tajawal" pointSize="11"/>
+                                <color key="textColor" red="0.76078431372549016" green="0.17254901960784313" blue="0.20784313725490194" alpha="1" colorSpace="deviceRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VCF-zm-80P">
+                                <rect key="frame" x="114" y="153" width="20" height="20"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="20" id="5H6-Bg-uVP"/>
+                                    <constraint firstAttribute="width" constant="20" id="Zz0-JI-2CH"/>
+                                </constraints>
+                                <state key="normal" image="cart100-icon"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="shadow_Radius">
+                                        <real key="value" value="4"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="size" keyPath="shadow_Offset">
+                                        <size key="value" width="2" height="2"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="shadow_Color">
+                                        <color key="value" red="0.0" green="0.0" blue="0.0" alpha="0.35999999999999999" colorSpace="deviceRGB"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="shadow_Opacity">
+                                        <real key="value" value="1"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="cartAction:" destination="gTV-IL-0wX" eventType="touchUpInside" id="Xfp-wg-Y1f"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="kce-pk-1Uy" firstAttribute="top" secondItem="YBa-tw-ffr" secondAttribute="bottom" constant="10" id="1nV-Ly-Uev"/>
+                            <constraint firstItem="apK-NC-98h" firstAttribute="leading" secondItem="maR-ZC-Ieg" secondAttribute="leading" constant="10" id="2mG-fc-bm0"/>
+                            <constraint firstAttribute="bottom" secondItem="VCF-zm-80P" secondAttribute="bottom" constant="14" id="38r-2X-EJy"/>
+                            <constraint firstItem="apK-NC-98h" firstAttribute="top" secondItem="YBa-tw-ffr" secondAttribute="bottom" constant="10" id="8Cz-Ie-zLW"/>
+                            <constraint firstItem="Mnz-8s-4rm" firstAttribute="top" secondItem="maR-ZC-Ieg" secondAttribute="top" constant="11" id="9zM-Ki-alT"/>
+                            <constraint firstItem="YBa-tw-ffr" firstAttribute="leading" secondItem="maR-ZC-Ieg" secondAttribute="leading" id="BlW-7v-SpL"/>
+                            <constraint firstAttribute="trailing" secondItem="YBa-tw-ffr" secondAttribute="trailing" id="JR8-I6-0aX"/>
+                            <constraint firstItem="YBa-tw-ffr" firstAttribute="top" secondItem="maR-ZC-Ieg" secondAttribute="top" id="JkH-Jd-dwn"/>
+                            <constraint firstAttribute="trailing" secondItem="VCF-zm-80P" secondAttribute="trailing" constant="13" id="Tit-Vm-eNU"/>
+                            <constraint firstItem="kce-pk-1Uy" firstAttribute="leading" secondItem="apK-NC-98h" secondAttribute="trailing" constant="5" id="Xeo-AF-Ked"/>
+                            <constraint firstAttribute="trailing" secondItem="kce-pk-1Uy" secondAttribute="trailing" constant="10" id="bBf-Wc-Prv"/>
+                            <constraint firstAttribute="trailing" secondItem="Mnz-8s-4rm" secondAttribute="trailing" constant="11" id="lPC-91-vWa"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="corner_radius">
+                                <real key="value" value="10"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="shadow_Radius">
+                                <real key="value" value="4"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="color" keyPath="shadow_Color">
+                                <color key="value" red="0.0" green="0.0" blue="0.0" alpha="0.14000000000000001" colorSpace="custom" customColorSpace="deviceRGB"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="shadow_Opacity">
+                                <real key="value" value="1"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="size" keyPath="shadow_Offset">
+                                <size key="value" width="1" height="1"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="maR-ZC-Ieg" secondAttribute="bottom" id="2UR-6E-muZ"/>
+                <constraint firstAttribute="trailing" secondItem="maR-ZC-Ieg" secondAttribute="trailing" constant="10" id="IXz-Pt-kU6"/>
+                <constraint firstItem="maR-ZC-Ieg" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="av4-7W-dn9"/>
+                <constraint firstItem="maR-ZC-Ieg" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="10" id="kIk-Yi-BwQ"/>
+            </constraints>
+            <size key="customSize" width="340" height="253"/>
+            <connections>
+                <outlet property="favButton" destination="Mnz-8s-4rm" id="Rda-j3-SGX"/>
+                <outlet property="priceLabel" destination="kce-pk-1Uy" id="imR-Ns-fFs"/>
+                <outlet property="productImageView" destination="YBa-tw-ffr" id="1K1-DP-nYK"/>
+                <outlet property="productTitleLabel" destination="75Q-gB-Wib" id="b69-MZ-chC"/>
+                <outlet property="weightLabel" destination="NJ3-V8-rFl" id="wCE-sn-QkP"/>
+            </connections>
+            <point key="canvasLocation" x="70.28985507246378" y="151.00446428571428"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="cart100-icon" width="20" height="20"/>
+        <image name="favorate-icon" width="26" height="26"/>
+        <image name="unselected-fav" width="26" height="26"/>
+    </resources>
+</document>

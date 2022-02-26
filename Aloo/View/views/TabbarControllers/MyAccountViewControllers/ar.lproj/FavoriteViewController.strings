@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Please choose a supermarket"; ObjectID = "Bqh-n0-9wS"; */
+"Bqh-n0-9wS.text" = "الرجاء اختيار سوبر ماركت";
+
+/* Class = "UILabel"; text = "Super Markets"; ObjectID = "DIL-ZW-MFp"; */
+"DIL-ZW-MFp.text" = "سوبر ماركت";
+
+/* Class = "UILabel"; text = "Favorite"; ObjectID = "H0x-Yg-vyJ"; */
+"H0x-Yg-vyJ.text" = "مفضل";
+
+/* Class = "UILabel"; text = "Select Restaurant"; ObjectID = "Mo9-Uh-EBN"; */
+"Mo9-Uh-EBN.text" = "اختر المطعم";
+
+/* Class = "UILabel"; text = "Restaurants"; ObjectID = "dte-6h-OTQ"; */
+"dte-6h-OTQ.text" = "مطاعم";
+
+/* Class = "UILabel"; text = "Restaurants"; ObjectID = "itC-ad-nqX"; */
+"itC-ad-nqX.text" = "مطاعم";
+
+/* Class = "UILabel"; text = "Pharmacies"; ObjectID = "nbN-Fw-fxT"; */
+"nbN-Fw-fxT.text" = "صيدليات";

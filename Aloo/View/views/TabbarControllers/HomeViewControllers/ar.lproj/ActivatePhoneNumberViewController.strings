@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "Resend"; ObjectID = "CrO-tj-sIw"; */
+"CrO-tj-sIw.normalTitle" = "إعادة إرسال";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "FJe-nh-JRq"; */
+"FJe-nh-JRq.normalTitle" = "التالي";
+
+/* Class = "UILabel"; text = "Activate the mobile number"; ObjectID = "G9w-lW-BhJ"; */
+"G9w-lW-BhJ.text" = "تفعيل رقم الجوال";
+
+/* Class = "UILabel"; text = "Thanks You"; ObjectID = "OUy-SW-JMd"; */
+"OUy-SW-JMd.text" = "شكرا لك";
+
+/* Class = "UITextField"; placeholder = "Please enter the activation code here"; ObjectID = "PH3-e3-U1m"; */
+"PH3-e3-U1m.placeholder" = "الرجاء إدخال رمز التفعيل هنا";
+
+/* Class = "UILabel"; text = "Didn't receive the activation code?"; ObjectID = "R02-PL-XWD"; */
+"R02-PL-XWD.text" = "لم يصلك كود التفعيل؟";
+
+/* Class = "UILabel"; text = "An activation code has been sent to your mobile"; ObjectID = "dcC-jf-qtd"; */
+"dcC-jf-qtd.text" = "تم إرسال رمز التفعيل إلى هاتفك المحمول";
+
+/* Class = "UILabel"; text = "You are logged in successfully"; ObjectID = "gK3-WH-7yZ"; */
+"gK3-WH-7yZ.text" = "لقد قمت بتسجيل الدخول بنجاح";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "kJe-Lp-7fE"; */
+"kJe-Lp-7fE.normalTitle" = "حسنآ";

@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "Social Media"; ObjectID = "2sa-eT-jXE"; */
+"2sa-eT-jXE.text" = "وسائل التواصل الاجتماعي";
+
+/* Class = "UILabel"; text = "@Aloo"; ObjectID = "5eS-cp-NsN"; */
+"5eS-cp-NsN.text" = "@Aloo";
+
+/* Class = "UILabel"; text = "email text"; ObjectID = "GVZ-Ko-tcR"; */
+"GVZ-Ko-tcR.text" = "";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "UFX-jl-dnL"; */
+"UFX-jl-dnL.text" = "بريد الالكتروني";
+
+/* Class = "UILabel"; text = "About The App"; ObjectID = "WJ0-KZ-Peo"; */
+"WJ0-KZ-Peo.text" = "حول التطبيق";
+
+/* Class = "UILabel"; text = "number text"; ObjectID = "X1I-BY-59L"; */
+"X1I-BY-59L.text" = "";
+
+/* Class = "UILabel"; text = "@Aloo"; ObjectID = "cxP-5H-pqn"; */
+"cxP-5H-pqn.text" = "@Aloo";
+
+/* Class = "UILabel"; text = "WhatsApp Number"; ObjectID = "dUo-u2-eSG"; */
+"dUo-u2-eSG.text" = "رقم الواتس اب";
+
+/* Class = "UILabel"; text = "@Aloo"; ObjectID = "zYy-JD-NlC"; */
+"zYy-JD-NlC.text" = "@Aloo";

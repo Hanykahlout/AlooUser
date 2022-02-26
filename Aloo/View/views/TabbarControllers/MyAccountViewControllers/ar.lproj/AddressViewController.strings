@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Delivery Addresses"; ObjectID = "7jO-Rv-jxi"; */
+"7jO-Rv-jxi.text" = "عناوين التسليم";
+
+/* Class = "UITextField"; placeholder = "Address Name"; ObjectID = "Ibb-BD-DJF"; */
+"Ibb-BD-DJF.placeholder" = "اسم عنوان";
+
+/* Class = "UIButton"; normalTitle = "Add New Location"; ObjectID = "KQv-7w-QEu"; */
+"KQv-7w-QEu.normalTitle" = "إضافة موقع جديد";
+
+/* Class = "UITextField"; placeholder = "Determine the location on the map"; ObjectID = "TwT-Ic-9qd"; */
+"TwT-Ic-9qd.placeholder" = "تحديد الموقع على الخريطة";

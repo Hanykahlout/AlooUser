@@ -1,0 +1,223 @@
+
+/* Class = "UILabel"; text = "1"; ObjectID = "18I-YB-IBy"; */
+"18I-YB-IBy.text" = "1";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "1ZD-aP-1hX"; */
+"1ZD-aP-1hX.text" = "المجموع";
+
+/* Class = "UILabel"; text = "Wallet details"; ObjectID = "2q5-Uk-vP0"; */
+"2q5-Uk-vP0.text" = "تفاصيل المحفظة";
+
+/* Class = "UILabel"; text = "Middle"; ObjectID = "30U-CI-kQG"; */
+"30U-CI-kQG.text" = "متوسط";
+
+/* Class = "UITabBarItem"; title = "Help"; ObjectID = "3Cw-MN-RJ4"; */
+"3Cw-MN-RJ4.title" = "مساعدة";
+
+/* Class = "UILabel"; text = "Asking price"; ObjectID = "5eF-RD-FlB"; */
+"5eF-RD-FlB.text" = "سعر الطلب";
+
+/* Class = "UILabel"; text = "Your request has been sent"; ObjectID = "8om-uh-ooI"; */
+"8om-uh-ooI.text" = "تم إرسال طلبك";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "9Pg-Ca-3HY"; */
+"9Pg-Ca-3HY.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "Order Summary"; ObjectID = "ACd-cW-UTn"; */
+"ACd-cW-UTn.text" = "ملخص الطلب";
+
+/* Class = "UILabel"; text = "12SR"; ObjectID = "AEg-Jp-bRs"; */
+"AEg-Jp-bRs.text" = "12SR";
+
+/* Class = "UILabel"; text = "Pharmacies"; ObjectID = "D3X-Uo-3bB"; */
+"D3X-Uo-3bB.text" = "صيدليات";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "DKj-ph-tNa"; */
+"DKj-ph-tNa.normalTitle" = "حسنآ";
+
+/* Class = "UILabel"; text = "Asking price"; ObjectID = "DPN-qR-Vjy"; */
+"DPN-qR-Vjy.text" = "سعر الطلب";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "E1r-EA-9Nd"; */
+"E1r-EA-9Nd.text" = "تفاصيل";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "EKS-Aj-MsL"; */
+"EKS-Aj-MsL.text" = "الرئيسية";
+
+/* Class = "UILabel"; text = "Optionals"; ObjectID = "Gbn-OZ-fGA"; */
+"Gbn-OZ-fGA.text" = "اضافات";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "H2b-aq-3mR"; */
+"H2b-aq-3mR.text" = "العنوان";
+
+/* Class = "UIButton"; normalTitle = "Add To Cart"; ObjectID = "H3r-L2-vjG"; */
+"H3r-L2-vjG.normalTitle" = "إضافة للسلة";
+
+/* Class = "UILabel"; text = "Order Number 54297"; ObjectID = "MqD-Rd-4Jm"; */
+"MqD-Rd-4Jm.text" = "رقم الطلب";
+
+/* Class = "UILabel"; text = "12SR"; ObjectID = "Mun-Ew-KGf"; */
+"Mun-Ew-KGf.text" = "12SR";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "NRC-6P-X6R"; */
+"NRC-6P-X6R.text" = "المجموع";
+
+/* Class = "UILabel"; text = "14SR"; ObjectID = "NWR-kc-bcN"; */
+"NWR-kc-bcN.text" = "14SR";
+
+/* Class = "UILabel"; text = "Order Nubmer"; ObjectID = "NtO-Gi-JWS"; */
+"NtO-Gi-JWS.text" = "رقم الطلب";
+
+/* Class = "UIButton"; normalTitle = "Start with the service that suits you"; ObjectID = "P2i-JI-rly"; */
+"P2i-JI-rly.normalTitle" = "ابدأ بالخدمة التي تناسبك";
+
+/* Class = "UILabel"; text = "Small"; ObjectID = "PD9-dX-7sr"; */
+"PD9-dX-7sr.text" = "صغير";
+
+/* Class = "UILabel"; text = "Are you logged in?"; ObjectID = "PbH-ch-hYn"; */
+"PbH-ch-hYn.text" = "هل قمت بتسجيل الدخول؟";
+
+/* Class = "UILabel"; text = "The Wallet"; ObjectID = "QmD-bJ-OAV"; */
+"QmD-bJ-OAV.text" = "المحفظة";
+
+/* Class = "UILabel"; text = "Meal Name"; ObjectID = "QpY-n7-2QI"; */
+"QpY-n7-2QI.text" = "اسم الوجبة";
+
+/* Class = "UILabel"; text = "Delivery Charge"; ObjectID = "RUi-u1-mEU"; */
+"RUi-u1-mEU.text" = "رسوم التوصيل";
+
+/* Class = "UILabel"; text = "Delivery address"; ObjectID = "S7N-A2-NY2"; */
+"S7N-A2-NY2.text" = "عنوان التسليم";
+
+/* Class = "UILabel"; text = "Order details"; ObjectID = "SuY-bY-CmW"; */
+"SuY-bY-CmW.text" = "تفاصيل الطلب";
+
+/* Class = "UILabel"; text = "Restaurants"; ObjectID = "TFl-Bp-W9h"; */
+"TFl-Bp-W9h.text" = "المطاعم";
+
+/* Class = "UIButton"; normalTitle = "Login Now"; ObjectID = "UG2-jo-0p3"; */
+"UG2-jo-0p3.normalTitle" = "سحل الدخول الآن";
+
+/* Class = "UILabel"; text = "Please register to confirm your order"; ObjectID = "UhY-dL-paf"; */
+"UhY-dL-paf.text" = "يرجى التسجيل لتأكيد طلبك";
+
+/* Class = "UILabel"; text = "Big"; ObjectID = "VBw-Dh-qLp"; */
+"VBw-Dh-qLp.text" = "كبير";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "VbA-D2-RwX"; */
+"VbA-D2-RwX.text" = "المجموع";
+
+/* Class = "UILabel"; text = "0 SR"; ObjectID = "WBc-B6-xhy"; */
+"WBc-B6-xhy.text" = "0 SR";
+
+/* Class = "UIButton"; normalTitle = "Confirmation"; ObjectID = "WVB-73-q5c"; */
+"WVB-73-q5c.normalTitle" = "تأكيد";
+
+/* Class = "UILabel"; text = "We provide you with most of the well-known pharmacies that meet your needs"; ObjectID = "WqF-a0-ZoR"; */
+"WqF-a0-ZoR.text" = "نوفر لك معظم الصيدليات المعروفة التي تلبي احتياجاتك";
+
+/* Class = "UITabBarItem"; title = "Help"; ObjectID = "XC6-Y3-Cnu"; */
+"XC6-Y3-Cnu.title" = "يساعد";
+
+/* Class = "UILabel"; text = "Cart"; ObjectID = "XO1-pZ-hs9"; */
+"XO1-pZ-hs9.text" = "سلة";
+
+/* Class = "UILabel"; text = "Delivery Addresses"; ObjectID = "ZK1-6s-lRc"; */
+"ZK1-6s-lRc.text" = "عناوين التسليم";
+
+/* Class = "UIButton"; normalTitle = "Rate"; ObjectID = "ZsI-bs-sEg"; */
+"ZsI-bs-sEg.normalTitle" = "تتبع الطلب";
+
+/* Class = "UIButton"; normalTitle = "change"; ObjectID = "ayC-hM-Lil"; */
+"ayC-hM-Lil.normalTitle" = "تغيير";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "dI6-4e-X4A"; */
+"dI6-4e-X4A.text" = "العنوان";
+
+/* Class = "UILabel"; text = "Other Additions"; ObjectID = "dh7-oF-znn"; */
+"dh7-oF-znn.text" = "اضافات اخرى";
+
+/* Class = "UILabel"; text = "How can we help you?"; ObjectID = "drr-h0-9W0"; */
+"drr-h0-9W0.text" = "كيف يمكننا مساعدتك؟";
+
+/* Class = "UILabel"; text = "30SR"; ObjectID = "fL6-qO-4UV"; */
+"fL6-qO-4UV.text" = "30SR";
+
+/* Class = "UILabel"; text = "Super Market Orders"; ObjectID = "hV5-rw-oJe"; */
+"hV5-rw-oJe.text" = "طلبات السوبر ماركت";
+
+/* Class = "UILabel"; text = "Description Text Here...Description Text Here...Description Text Here...Description Text Here...Description Text Here...Description Text Here...Description Text Here...Description Text Here...Description Text Here...Description Text Here...Description Text Here...Description Text Here...Description Text Here...Description Text Here...Description Text Here...Description Text Here...Description Text Here..."; ObjectID = "hpc-mB-VeA"; */
+"hpc-mB-VeA.text" = "";
+
+/* Class = "UILabel"; text = "Order Status"; ObjectID = "iUO-Ds-VED"; */
+"iUO-Ds-VED.text" = "حالة الطلب";
+
+/* Class = "UILabel"; text = "Calores Number"; ObjectID = "icf-dK-NZ2"; */
+"icf-dK-NZ2.text" = "عدد السعرات";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "id7-sl-gUm"; */
+"id7-sl-gUm.text" = "السعر";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "iuw-QW-bh8"; */
+"iuw-QW-bh8.text" = "1";
+
+/* Class = "UILabel"; text = "Balance"; ObjectID = "jHE-Ru-NW1"; */
+"jHE-Ru-NW1.text" = "الرصيد";
+
+/* Class = "UILabel"; text = "We have collected for you most of the applications you need in one place, from rides, restaurants, supermarkets and many more"; ObjectID = "jYt-YU-595"; */
+"jYt-YU-595.text" = "لقد جمعنا لك معظم التطبيقات التي تحتاجها في مكان واحد ، من الألعاب والمطاعم ومحلات السوبر ماركت وغيرها الكثير";
+
+/* Class = "UILabel"; text = "From Location"; ObjectID = "jeh-BA-7jg"; */
+"jeh-BA-7jg.text" = "من الموقع";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "jxm-yX-cBL"; */
+"jxm-yX-cBL.title" = "الرئيسية";
+
+/* Class = "UIButton"; normalTitle = "Use the current site"; ObjectID = "lEq-bE-Afr"; */
+"lEq-bE-Afr.normalTitle" = "استخدم الموقع الحالي";
+
+/* Class = "UILabel"; text = "We provide you with most of the well-known restaurants and different cafes according to your taste"; ObjectID = "nfy-VX-2Zn"; */
+"nfy-VX-2Zn.text" = "نوفر لك معظم المطاعم المعروفة والمقاهي المختلفة حسب ذوقك";
+
+/* Class = "UILabel"; text = "30SR"; ObjectID = "pFJ-fk-One"; */
+"pFJ-fk-One.text" = "30SR";
+
+/* Class = "UILabel"; text = "You can view the products of the supermarket or your supplies with us in the application"; ObjectID = "pLQ-tD-wfP"; */
+"pLQ-tD-wfP.text" = "يمكنك مشاهدة منتجات السوبر ماركت أو لوازمك معنا في التطبيق";
+
+/* Class = "UILabel"; text = "Drink Type"; ObjectID = "pht-Mn-ZL0"; */
+"pht-Mn-ZL0.text" = "نوع الشراب";
+
+/* Class = "UILabel"; text = "Supermarket"; ObjectID = "qvR-tI-vCa"; */
+"qvR-tI-vCa.text" = "سوبر ماركت";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "rb7-4s-YWj"; */
+"rb7-4s-YWj.normalTitle" = "حسنآ";
+
+/* Class = "UILabel"; text = "Conform from resturant"; ObjectID = "tW1-D5-IQH"; */
+"tW1-D5-IQH.text" = "تأكيد من المطعم";
+
+/* Class = "UILabel"; text = "To Location"; ObjectID = "thC-iY-dIv"; */
+"thC-iY-dIv.text" = "";
+
+/* Class = "UILabel"; text = "14SR"; ObjectID = "uPt-2h-yja"; */
+"uPt-2h-yja.text" = "14SR";
+
+/* Class = "UITabBarItem"; title = "My Account"; ObjectID = "vo6-f4-LSc"; */
+"vo6-f4-LSc.title" = "حسابي";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "vto-on-dwI"; */
+"vto-on-dwI.text" = "الوقت";
+
+/* Class = "UITabBarItem"; title = "My Orders"; ObjectID = "wWd-0W-8LS"; */
+"wWd-0W-8LS.title" = "طلباتي";
+
+/* Class = "UILabel"; text = "Delivery Charge"; ObjectID = "xC5-B1-La1"; */
+"xC5-B1-La1.text" = "رسوم التوصيل";
+
+/* Class = "UIButton"; normalTitle = "Order Tracking"; ObjectID = "zds-L0-w6V"; */
+"zds-L0-w6V.normalTitle" = "تتبع الطلب";
+
+"R1s-xC-RJk.normalTitle" = "عرض جميع الباقات ->";
+
+

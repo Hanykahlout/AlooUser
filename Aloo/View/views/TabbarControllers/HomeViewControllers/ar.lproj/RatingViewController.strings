@@ -1,0 +1,21 @@
+
+/* Class = "UITextView"; text = "Some Notes"; ObjectID = "1nd-Wn-t3g"; */
+"1nd-Wn-t3g.text" = "بعض الملاحظات";
+
+/* Class = "UILabel"; text = "Hany Alkahlout"; ObjectID = "Tjm-jq-jcF"; */
+"Tjm-jq-jcF.text" = "";
+
+/* Class = "UILabel"; text = "Thank You"; ObjectID = "V96-Ds-uZf"; */
+"V96-Ds-uZf.text" = "اشكرك";
+
+/* Class = "UILabel"; text = "Your review has been submitted"; ObjectID = "b07-bv-TK6"; */
+"b07-bv-TK6.text" = "تم تقديم رأيك الخاص بك";
+
+/* Class = "UILabel"; text = "Driver Rating"; ObjectID = "hoH-OW-KMP"; */
+"hoH-OW-KMP.text" = "تقييم السائق";
+
+/* Class = "UIButton"; normalTitle = "Submit Rating"; ObjectID = "kvh-ND-vEu"; */
+"kvh-ND-vEu.normalTitle" = "إرسال التقييم";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "xGK-cG-0qe"; */
+"xGK-cG-0qe.normalTitle" = "حسنآ";

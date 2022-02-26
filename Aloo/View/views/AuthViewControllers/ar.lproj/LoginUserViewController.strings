@@ -1,0 +1,23 @@
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "48H-i7-Jst"; */
+"48H-i7-Jst.placeholder" = "رقم الجوال";
+
+/* Class = "UILabel"; text = "Please enter your mobile number and your password"; ObjectID = "Ayd-d2-P28"; */
+"Ayd-d2-P28.text" = "الرجاء إدخال رقم هاتفك المحمول وكلمة المرور الخاصة بك";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "FxI-Xp-568"; */
+"FxI-Xp-568.placeholder" = "كلمه السر";
+
+/* Class = "UILabel"; text = "Don't have an account?"; ObjectID = "HYy-48-U1O"; */
+"HYy-48-U1O.text" = "ليس لديك حساب؟";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "JuC-S7-IAw"; */
+"JuC-S7-IAw.normalTitle" = "اشتراك";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "LbC-3O-Ce3"; */
+"LbC-3O-Ce3.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "Register/Login"; ObjectID = "vp9-bC-47g"; */
+"vp9-bC-47g.text" = "تسجيل الدخول";
+
+"etF-aB-McT.normalTitle" = "نسيت كلمة المرور؟";

@@ -1,0 +1,39 @@
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "6kM-7c-ve2"; */
+"6kM-7c-ve2.normalTitle" = "حفظ";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "BQm-HJ-ddp"; */
+"BQm-HJ-ddp.placeholder" = "تأكيد كلمة المرور";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "KNq-49-g3B"; */
+"KNq-49-g3B.placeholder" = "بريد الالكتروني";
+
+/* Class = "UILabel"; text = "Profile personly"; ObjectID = "LR1-N8-2WM"; */
+"LR1-N8-2WM.text" = "الملف الشخصي";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "OXB-pq-zmB"; */
+"OXB-pq-zmB.placeholder" = "مدينة";
+
+/* Class = "UITextField"; placeholder = "Gender"; ObjectID = "XYe-OJ-J9k"; */
+"XYe-OJ-J9k.placeholder" = "جنس تذكير أو تأنيث";
+
+/* Class = "UILabel"; text = "Add Image"; ObjectID = "awU-Xa-CzJ"; */
+"awU-Xa-CzJ.text" = "إضافة صورة";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "bhv-4z-e4l"; */
+"bhv-4z-e4l.placeholder" = "كلمه السر";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "d2C-K3-AjT"; */
+"d2C-K3-AjT.placeholder" = "رقم الهاتف";
+
+/* Class = "UILabel"; text = "Cities"; ObjectID = "hOC-hg-9jS"; */
+"hOC-hg-9jS.text" = "مدن";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "sd7-62-09b"; */
+"sd7-62-09b.text" = "ذكر";
+
+/* Class = "UILabel"; text = "Female"; ObjectID = "sfr-gN-WZk"; */
+"sfr-gN-WZk.text" = "أنثى";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "vk9-nr-ele"; */
+"vk9-nr-ele.placeholder" = "اسم";

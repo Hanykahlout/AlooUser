@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Product Name"; ObjectID = "3ei-h8-0oy"; */
+"3ei-h8-0oy.text" = "اسم المنتج";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "EdC-N5-9xM"; */
+"EdC-N5-9xM.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "I6h-GS-zTe"; */
+"I6h-GS-zTe.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "Add To Cart"; ObjectID = "NXK-AK-Tx4"; */
+"NXK-AK-Tx4.normalTitle" = "أضف إلى السلة";
+
+/* Class = "UILabel"; text = "Similar Products"; ObjectID = "eMO-qn-SvR"; */
+"eMO-qn-SvR.text" = "منتجات مماثلة";
+
+/* Class = "UILabel"; text = "Price SR"; ObjectID = "maX-Ap-yR5"; */
+"maX-Ap-yR5.text" = "";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "phg-Rb-lRl"; */
+"phg-Rb-lRl.text" = "1";
+
+/* Class = "UILabel"; text = "weight Label"; ObjectID = "uWW-Sj-Nbc"; */
+"uWW-Sj-Nbc.text" = "";

@@ -1,0 +1,52 @@
+/* 
+ Copyright (c) 2021 Swift Models Generated from JSON powered by http://www.json4swift.com
+ 
+ Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+ 
+ The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+ 
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ 
+ For support, please feel free to contact me at https://www.linkedin.com/in/syedabsar
+ 
+ */
+
+import Foundation
+import ObjectMapper
+
+struct CartItem : Mappable {
+    var id : Int?
+    var price : String?
+    var img : String?
+    var name : String?
+    var description : String?
+    var calories : String?
+    var sizes : Sizes?
+    var optionals : [String]?
+    var extras : [Drinks]?
+    var drinks : [Drinks]?
+    var amount : Int?
+    var amount_type : String?
+    var images : [String]?
+    
+    init?(map: Map) {
+        
+    }
+    
+    mutating func mapping(map: Map) {
+        amount_type <- map["amount_type"]
+        amount <- map["amount"]
+        id <- map["id"]
+        price <- map["price"]
+        img <- map["img"]
+        name <- map["name"]
+        description <- map["description"]
+        calories <- map["calories"]
+        sizes <- map["sizes"]
+        optionals <- map["optionals"]
+        extras <- map["extras"]
+        drinks <- map["drinks"]
+        images <- map["images"]
+    }
+    
+}

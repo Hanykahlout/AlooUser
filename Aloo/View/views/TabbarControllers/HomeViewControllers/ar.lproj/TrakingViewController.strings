@@ -1,0 +1,54 @@
+
+/* Class = "UILabel"; text = "1"; ObjectID = "43c-cx-eYf"; */
+"43c-cx-eYf.text" = "1";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "4To-CB-Tkb"; */
+"4To-CB-Tkb.text" = "2";
+
+/* Class = "UIButton"; normalTitle = "Rating"; ObjectID = "CUh-VT-roO"; */
+"CUh-VT-roO.normalTitle" = "تقييم";
+
+/* Class = "UILabel"; text = "Order number 54297"; ObjectID = "FRw-Zb-2fN"; */
+"FRw-Zb-2fN.text" = "رقم الطلب";
+
+/* Class = "UILabel"; text = "The order has been processed"; ObjectID = "G3W-M6-HQf"; */
+"G3W-M6-HQf.text" = "الطلب قيد التوصيل";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "VBJ-Xy-8mx"; */
+"VBJ-Xy-8mx.text" = "5";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "Zsr-gi-fM4"; */
+"Zsr-gi-fM4.text" = "3";
+
+/* Class = "UILabel"; text = "6"; ObjectID = "aPl-gc-uKe"; */
+"aPl-gc-uKe.text" = "6";
+
+/* Class = "UILabel"; text = "The order has been delivered"; ObjectID = "bl8-Kk-Nun"; */
+"bl8-Kk-Nun.text" = "تم تسليم الطلب";
+
+/* Class = "UILabel"; text = "Your order has been sent to the restaurant"; ObjectID = "bzo-RV-hhU"; */
+"bzo-RV-hhU.text" = "في إنتظار قبول الطلب";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "deb-C7-nsH"; */
+"deb-C7-nsH.text" = "4";
+
+/* Class = "UILabel"; text = "Your order has been sent to the restaurant and is awaiting confirmation"; ObjectID = "hTq-DR-cB2"; */
+"hTq-DR-cB2.text" = "تم إرسال طلبك إلى المطعم وينتظر التأكيد";
+
+/* Class = "UILabel"; text = "The order has been delivered to the driver"; ObjectID = "j0S-rp-wO4"; */
+"j0S-rp-wO4.text" = "وصل السائق لمكان العميل";
+
+/* Class = "UILabel"; text = "The request is being prepared"; ObjectID = "kLY-Vy-S6f"; */
+"kLY-Vy-S6f.text" = "الطلب جاهز";
+
+/* Class = "UILabel"; text = "Restaurant order confirmed"; ObjectID = "qg5-KX-57D"; */
+"qg5-KX-57D.text" = "يتم إعداد الطلب";
+
+
+
+//bzo-RV-hhU
+//qg5-KX-57D
+//kLY-Vy-S6f
+//G3W-M6-HQf
+//j0S-rp-wO4
+//bl8-Kk-Nun
